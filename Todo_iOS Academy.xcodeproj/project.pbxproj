@@ -32,6 +32,7 @@
 		53054A5E2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A5D2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift */; };
 		53054A602A4C569B000C0654 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A5F2A4C569B000C0654 /* HeaderView.swift */; };
 		53054A622A4C5E66000C0654 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A612A4C5E66000C0654 /* TLButton.swift */; };
+		53054A642A4C6913000C0654 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A632A4C6913000C0654 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		53054A5D2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItmeViewViewModel.swift; sourceTree = "<group>"; };
 		53054A5F2A4C569B000C0654 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		53054A612A4C5E66000C0654 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		53054A632A4C6913000C0654 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			children = (
 				53054A4D2A4C5382000C0654 /* User.swift */,
 				53054A4F2A4C5392000C0654 /* ToDoListItem.swift */,
+				53054A632A4C6913000C0654 /* Extensions.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				53054A4A2A4C534F000C0654 /* RegisterView.swift in Sources */,
 				53054A5E2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift in Sources */,
 				53054A402A4C5310000C0654 /* MainView.swift in Sources */,
+				53054A642A4C6913000C0654 /* Extensions.swift in Sources */,
 				53054A4C2A4C5361000C0654 /* ToDoListItemView.swift in Sources */,
 				53054A582A4C53DE000C0654 /* NewItemViewViewModel.swift in Sources */,
 				53054A4E2A4C5382000C0654 /* User.swift in Sources */,
