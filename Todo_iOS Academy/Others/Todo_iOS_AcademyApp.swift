@@ -15,7 +15,7 @@ struct Todo_iOS_AcademyApp: App {
     }
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
