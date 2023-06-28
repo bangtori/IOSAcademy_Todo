@@ -31,6 +31,7 @@
 		53054A5C2A4C5401000C0654 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A5B2A4C5401000C0654 /* RegisterViewViewModel.swift */; };
 		53054A5E2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A5D2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift */; };
 		53054A602A4C569B000C0654 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A5F2A4C569B000C0654 /* HeaderView.swift */; };
+		53054A622A4C5E66000C0654 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A612A4C5E66000C0654 /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		53054A5B2A4C5401000C0654 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		53054A5D2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItmeViewViewModel.swift; sourceTree = "<group>"; };
 		53054A5F2A4C569B000C0654 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		53054A612A4C5E66000C0654 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				53054A492A4C534F000C0654 /* RegisterView.swift */,
 				53054A4B2A4C5361000C0654 /* ToDoListItemView.swift */,
 				53054A5F2A4C569B000C0654 /* HeaderView.swift */,
+				53054A612A4C5E66000C0654 /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				53054A462A4C5335000C0654 /* NewItemView.swift in Sources */,
 				53054A5A2A4C53ED000C0654 /* LoginViewViewModel.swift in Sources */,
 				53054A522A4C53B2000C0654 /* MainViewViewModel.swift in Sources */,
+				53054A622A4C5E66000C0654 /* TLButton.swift in Sources */,
 				53054A542A4C53C3000C0654 /* ProfileViewViewModel.swift in Sources */,
 				53054A482A4C5344000C0654 /* LoginView.swift in Sources */,
 				53054A422A4C531F000C0654 /* ProfileView.swift in Sources */,
