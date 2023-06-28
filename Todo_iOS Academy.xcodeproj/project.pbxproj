@@ -16,7 +16,7 @@
 		53054A3A2A4C4E2E000C0654 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 53054A392A4C4E2E000C0654 /* FirebaseFirestoreSwift */; };
 		53054A402A4C5310000C0654 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A3F2A4C5310000C0654 /* MainView.swift */; };
 		53054A422A4C531F000C0654 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A412A4C531F000C0654 /* ProfileView.swift */; };
-		53054A442A4C532C000C0654 /* ToDOListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A432A4C532C000C0654 /* ToDOListView.swift */; };
+		53054A442A4C532C000C0654 /* ToDoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A432A4C532C000C0654 /* ToDoListView.swift */; };
 		53054A462A4C5335000C0654 /* NewItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A452A4C5335000C0654 /* NewItemView.swift */; };
 		53054A482A4C5344000C0654 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A472A4C5344000C0654 /* LoginView.swift */; };
 		53054A4A2A4C534F000C0654 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53054A492A4C534F000C0654 /* RegisterView.swift */; };
@@ -41,7 +41,7 @@
 		53054A322A4C4D59000C0654 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		53054A3F2A4C5310000C0654 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		53054A412A4C531F000C0654 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		53054A432A4C532C000C0654 /* ToDOListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDOListView.swift; sourceTree = "<group>"; };
+		53054A432A4C532C000C0654 /* ToDoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListView.swift; sourceTree = "<group>"; };
 		53054A452A4C5335000C0654 /* NewItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemView.swift; sourceTree = "<group>"; };
 		53054A472A4C5344000C0654 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		53054A492A4C534F000C0654 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
@@ -113,7 +113,7 @@
 			children = (
 				53054A3F2A4C5310000C0654 /* MainView.swift */,
 				53054A412A4C531F000C0654 /* ProfileView.swift */,
-				53054A432A4C532C000C0654 /* ToDOListView.swift */,
+				53054A432A4C532C000C0654 /* ToDoListView.swift */,
 				53054A452A4C5335000C0654 /* NewItemView.swift */,
 				53054A472A4C5344000C0654 /* LoginView.swift */,
 				53054A492A4C534F000C0654 /* RegisterView.swift */,
@@ -245,7 +245,7 @@
 				53054A542A4C53C3000C0654 /* ProfileViewViewModel.swift in Sources */,
 				53054A482A4C5344000C0654 /* LoginView.swift in Sources */,
 				53054A422A4C531F000C0654 /* ProfileView.swift in Sources */,
-				53054A442A4C532C000C0654 /* ToDOListView.swift in Sources */,
+				53054A442A4C532C000C0654 /* ToDoListView.swift in Sources */,
 				53054A4A2A4C534F000C0654 /* RegisterView.swift in Sources */,
 				53054A5E2A4C5416000C0654 /* ToDoListItmeViewViewModel.swift in Sources */,
 				53054A402A4C5310000C0654 /* MainView.swift in Sources */,
